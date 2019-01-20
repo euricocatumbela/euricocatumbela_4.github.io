@@ -1,0 +1,14 @@
+{
+  "name": "single_form",
+  "version": "1.0.0",
+  "description": "contact form",
+  "main": "server",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eurico Jeremias Catumbela",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
